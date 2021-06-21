@@ -2,7 +2,7 @@
 
 <img
   align="right"
-  width="210px"
+  width="205px"
   src="https://drive.google.com/uc?id=1i2Fxw6joiFGOEoFH2-F2VUvohRzJ9QPg"
 />
 Led by the principal investigator Dr. Junko Kanero, Sabancı University Mind, Language, & Technology Lab conducts many scientific studies to advance the theoretical understanding of cognitive processes to provide practical implications of the research. We believe in an interdisciplinary approach, and the topics integrate several research areas including psychology, education, linguistics, and human-computer interaction. 
