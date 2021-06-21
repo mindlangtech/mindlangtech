@@ -14,7 +14,7 @@ Led by the principal investigator Dr. Junko Kanero, Sabancı University Mind, La
 
 
 
-:earth_africa: Check out our website for studies and more: [mindlangtech.com](https://www.mindlangtech.com/)
+:earth_africa: **Check out our website for studies and more:** [mindlangtech.com](https://www.mindlangtech.com/)
 <br>
 <br>
 <h3 align="center">Follow us!</h3>
