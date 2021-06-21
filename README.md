@@ -23,5 +23,6 @@ Led by the principal investigator Dr. Junko Kanero, Sabancı University Mind, La
 <a href="https://twitter.com/mindlangtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindlangtech" height="30" width="40" /></a>
 <a href="https://fb.com/mindlangtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mindlangtech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCSPzSLqYtOok2ttrXkl3Xag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mind language and technology lab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/mindlangtech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mind language and technology lab" height="30" width="40" /></a>
 </p>
 
